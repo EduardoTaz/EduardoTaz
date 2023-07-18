@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo Tazoi
 
 - 🔭 Atualmente estou estudando
-- 🌱 Aprofundando em HTML e CSS, JS e Csharp
+- 🌱 Aprofundando em HTML e CSS, JS e C#
 - 😄 Pronomes: ele/dele
 
 <div align="center">
