@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Eduardo Tazoi
 
-- 🔭 Atualmente estou estudando
-- 🌱 Aprofundando em HTML e CSS, JS e Python
+• Técnico em Desenvolvimento de Sistemas | ETEC
 
 <div align="center">
   <a href="https://github.com/EduardoTaz">
