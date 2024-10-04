@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Eduardo Tazoi
 
 • Técnico em Desenvolvimento de Sistemas | ETEC
+• Estagiário de TI na ABCS Informática
 
 <div align="center">
   <a href="https://github.com/EduardoTaz">
