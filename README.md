@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo Tazoi
 
-• Técnico em Desenvolvimento de Sistemas | ETEC
+• Técnico em Desenvolvimento de Sistemas | ETEC <br>
 • Estagiário de TI na ABCS Informática
 
 <div align="center">
