@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo Tazoi
 
 • Técnico em Desenvolvimento de Sistemas <br>
-• Bacharelado em Sistemas de Informação
+• Bacharelado em Sistemas de Informação <br>
 • Dev Júnior ABCS Informática <br>
 
 
