@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Eduardo Tazoi
 
-• Técnico em Desenvolvimento de Sistemas | ETEC <br>
-• Dev Júnior ABCS Informática
+• Técnico em Desenvolvimento de Sistemas <br>
 • Bacharelado em Sistemas de Informação
+• Dev Júnior ABCS Informática <br>
+
 
 <div align="center">
   <a href="https://github.com/EduardoTaz">
